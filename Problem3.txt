@@ -1,0 +1,17 @@
+        Console.Write("Enter the total purchase amount: ");
+        double purchaseAmount = Convert.ToDouble(Console.ReadLine());
+
+        double discount = 0;
+
+        if (purchaseAmount > 5000)
+        {
+            discount = purchaseAmount * 0.20;
+        }
+        else if (purchaseAmount >= 2000 && purchaseAmount <= 5000)
+        {
+            discount = purchaseAmount * 0.10;
+        }
+
+        double finalPrice = purchaseAmount - discount;
+
+        Console.WriteLine($"Final price after discount: {finalPrice:C}");

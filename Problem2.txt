@@ -1,0 +1,22 @@
+        Console.Write("Enter the employee's salary: ");
+        double salary = Convert.ToDouble(Console.ReadLine());
+
+        Console.Write("Enter the years of service: ");
+        int yearsOfService = Convert.ToInt32(Console.ReadLine());
+
+        double bonus = 0;
+
+        if (yearsOfService > 10)
+        {
+            bonus = salary * 0.10;
+        }
+        else if (yearsOfService >= 5 && yearsOfService <= 10)
+        {
+            bonus = salary * 0.05;
+        }
+        else if (yearsOfService < 5)
+        {
+            bonus = salary * 0.02;
+        }
+
+        Console.WriteLine($"The bonus amount is: {bonus:C}");
