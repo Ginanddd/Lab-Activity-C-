@@ -1,0 +1,10 @@
+C:\Users\Ginand\Documents\APPSDEV\Activity2B\Activity2B\bin\Debug\Activity2B.exe.config
+C:\Users\Ginand\Documents\APPSDEV\Activity2B\Activity2B\bin\Debug\Activity2B.exe
+C:\Users\Ginand\Documents\APPSDEV\Activity2B\Activity2B\bin\Debug\Activity2B.pdb
+C:\Users\Ginand\Documents\APPSDEV\Activity2B\Activity2B\obj\Debug\Activity2B.csproj.AssemblyReference.cache
+C:\Users\Ginand\Documents\APPSDEV\Activity2B\Activity2B\obj\Debug\Activity2B.Form1.resources
+C:\Users\Ginand\Documents\APPSDEV\Activity2B\Activity2B\obj\Debug\Activity2B.Properties.Resources.resources
+C:\Users\Ginand\Documents\APPSDEV\Activity2B\Activity2B\obj\Debug\Activity2B.csproj.GenerateResource.cache
+C:\Users\Ginand\Documents\APPSDEV\Activity2B\Activity2B\obj\Debug\Activity2B.csproj.CoreCompileInputs.cache
+C:\Users\Ginand\Documents\APPSDEV\Activity2B\Activity2B\obj\Debug\Activity2B.exe
+C:\Users\Ginand\Documents\APPSDEV\Activity2B\Activity2B\obj\Debug\Activity2B.pdb
