@@ -1,0 +1,24 @@
+ID Number: 21436613
+First Name: Roginand
+Last Name: Villegas
+Middle Name: 
+Course: BSCS
+Year Level: 2
+Birthday: 11/14/2004
+----------------------------------------
+ID Number: 123
+First Name: 123
+Last Name: 123
+Middle Name: N/A
+Course: 123
+Year Level: 123
+Birthday: 04/05/2025
+----------------------------------------
+ID Number: 12341
+First Name: 23423
+Last Name: 234234
+Middle Name: 23423
+Course: 23423
+Year Level: 234234
+Birthday: 04/05/2025
+----------------------------------------

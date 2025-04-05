@@ -1,0 +1,10 @@
+C:\Users\Ginand\Documents\APPSDEV\Villegas_SEMIFINALACTIVITY1\Villegas_SEMIFINALACTIVITY1\bin\Debug\Villegas_SEMIFINALACTIVITY1.exe.config
+C:\Users\Ginand\Documents\APPSDEV\Villegas_SEMIFINALACTIVITY1\Villegas_SEMIFINALACTIVITY1\bin\Debug\Villegas_SEMIFINALACTIVITY1.exe
+C:\Users\Ginand\Documents\APPSDEV\Villegas_SEMIFINALACTIVITY1\Villegas_SEMIFINALACTIVITY1\bin\Debug\Villegas_SEMIFINALACTIVITY1.pdb
+C:\Users\Ginand\Documents\APPSDEV\Villegas_SEMIFINALACTIVITY1\Villegas_SEMIFINALACTIVITY1\obj\Debug\Villegas_SEMIFINALACTIVITY1.csproj.AssemblyReference.cache
+C:\Users\Ginand\Documents\APPSDEV\Villegas_SEMIFINALACTIVITY1\Villegas_SEMIFINALACTIVITY1\obj\Debug\Villegas_SEMIFINALACTIVITY1.Form1.resources
+C:\Users\Ginand\Documents\APPSDEV\Villegas_SEMIFINALACTIVITY1\Villegas_SEMIFINALACTIVITY1\obj\Debug\Villegas_SEMIFINALACTIVITY1.Properties.Resources.resources
+C:\Users\Ginand\Documents\APPSDEV\Villegas_SEMIFINALACTIVITY1\Villegas_SEMIFINALACTIVITY1\obj\Debug\Villegas_SEMIFINALACTIVITY1.csproj.GenerateResource.cache
+C:\Users\Ginand\Documents\APPSDEV\Villegas_SEMIFINALACTIVITY1\Villegas_SEMIFINALACTIVITY1\obj\Debug\Villegas_SEMIFINALACTIVITY1.csproj.CoreCompileInputs.cache
+C:\Users\Ginand\Documents\APPSDEV\Villegas_SEMIFINALACTIVITY1\Villegas_SEMIFINALACTIVITY1\obj\Debug\Villegas_SEMIFINALACTIVITY1.exe
+C:\Users\Ginand\Documents\APPSDEV\Villegas_SEMIFINALACTIVITY1\Villegas_SEMIFINALACTIVITY1\obj\Debug\Villegas_SEMIFINALACTIVITY1.pdb
